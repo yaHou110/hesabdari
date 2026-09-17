@@ -1,0 +1,6 @@
+{
+  "name": "Himoora Financial Suite",
+  "description": "Enterprise bilingual (Persian/English RTL/LTR) modern accounting platform inspired by EasyBooks, QuickBooks, and Xero with double-entry ledger invariants, financial command center, multi-tier plans, and intelligent financial analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
